@@ -1,27 +1,27 @@
-# 🪨📄✂️🔥 Rock-Paper-Scissors+Fire
+# Rock-Paper-Scissors+Fire
 
 A fun, interactive **Java-based GUI game** that expands the classic Rock-Paper-Scissors with an extra element — **Fire**! Built using **Java Swing (JOptionPane)** for user interaction.
 
 ---
 
-## 🎮 Game Overview
+## Game Overview
 
 Rock-Paper-Scissors+Fire is a small Java project where the player competes against the computer in an upgraded version of the traditional game. The player can choose **Rock**, **Paper**, **Scissors**, or **Fire**, with each choice following specific rules.
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🧠 Computer-generated random choices  
-- 🪟 Interactive pop-up dialogs using `JOptionPane`  
-- 🔥 New gameplay element: Fire  
-- 📊 Real-time score tracking  
-- 🔁 Replay option after every round  
-- 🎉 Final score summary with the overall winner  
+-  Computer-generated random choices  
+-  Interactive pop-up dialogs using `JOptionPane`  
+-  New gameplay element: Fire  
+-  Real-time score tracking  
+-  Replay option after every round  
+-  Final score summary with the overall winner  
 
 ---
 
-## 🕹️ Game Rules
+## Game Rules
 
 | Player Choice | Beats |
 |--------------|-------|
@@ -32,7 +32,7 @@ Rock-Paper-Scissors+Fire is a small Java project where the player competes again
 
 ---
 
-## 🧩 How to Play
+## How to Play
 
 1. Run the program  
 2. Enter your move when prompted (`Rock`, `Paper`, `Scissors`, or `Fire`)  
@@ -43,7 +43,7 @@ Rock-Paper-Scissors+Fire is a small Java project where the player competes again
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Language:** Java  
 - **GUI Framework:** Swing (`JOptionPane`)  
@@ -52,7 +52,7 @@ Rock-Paper-Scissors+Fire is a small Java project where the player competes again
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone or download this repository  
 2. Open the project in your Java IDE (NetBeans, IntelliJ IDEA, or Eclipse)  
@@ -62,7 +62,7 @@ Rock-Paper-Scissors+Fire is a small Java project where the player competes again
 
 ---
 
-## 🧠 Learning Purpose
+## Learning Purpose
 
 This project was developed as part of my **second-year IT studies** to practice Java fundamentals and GUI interaction.  
 It demonstrates:
@@ -75,15 +75,15 @@ It demonstrates:
 
 ---
 
-## 👤 Author
+## Author
 
 **Jose Victor Siong**  
-📦 Package: `com.jv.rockpaperscissors`  
-💬 _"Thanks for playing, playa!"_
+Package: `com.jv.rockpaperscissors`  
+_"Thanks for playing, playa!"_
 
 ---
 
-## 🏗️ Future Improvements
+## Future Improvements
 
 - Player vs Player mode  
 - Sound effects and animations  
